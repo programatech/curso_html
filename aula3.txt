@@ -1,0 +1,20 @@
+Aula 3: Estrutura de uma Página HTML
+
+Vamos aprofundar nossa compreensão da estrutura HTML, 
+explorando mais elementos que contribuem para a organização e 
+semântica de uma página web.
+
+Nesta aula, introduzimos alguns novos elementos:
+
+<link rel="stylesheet" href="estilos.css">: Referência a uma 
+folha de estilo externa para melhor organização do código CSS.
+<nav>: Define a navegação do site.
+<form>: Cria um formulário para coletar informações do usuário.
+<label>: Rótulo associado a um campo de formulário.
+<input type="text"> e <input type="email">: Campos de entrada de 
+texto e email no formulário.
+<main>: Define o conteúdo principal da página.
+O uso de identificadores (id) nas seções permite que os links de 
+navegação direcionem para seções específicas da página. 
+Lembre-se de que, conforme avançamos, podemos adicionar estilos e 
+interatividade para tornar a experiência do usuário ainda mais envolvente.
