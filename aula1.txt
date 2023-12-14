@@ -1,0 +1,17 @@
+Aula 1: O que é HTML?
+
+HTML, que significa Linguagem de Marcação de Hipertexto (HyperText Markup Language), 
+é a espinha dorsal da web. Ele fornece a estrutura básica para criar páginas da web. 
+Vamos começar com o esqueleto mais simples de um documento HTML.
+
+Vamos analisar o que cada parte faz:
+
+<!DOCTYPE html>: Declara o tipo de documento como HTML5.
+<html lang="pt-br">: Define o elemento HTML com o atributo lang para especificar o idioma (Português do Brasil neste caso).
+<head>: Contém metadados sobre o documento, como conjunto de caracteres, viewport e o título da página.
+<meta charset="UTF-8">: Define o conjunto de caracteres como UTF-8 para suportar caracteres especiais.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ajuda a tornar o site responsivo em dispositivos diferentes.
+<title>Minha Primeira Página</title>: Define o título da página, que aparece na aba do navegador.
+<body>: Contém o conteúdo visível da página.
+<h1>: Cabeçalho de nível 1 (o maior) para títulos importantes.
+<p>: Parágrafo para texto normal.
