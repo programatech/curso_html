@@ -1,0 +1,18 @@
+Aula 2: Tags e Elementos HTML
+
+Em HTML, as tags são os blocos de construção fundamentais que envolvem e 
+estruturam o conteúdo. Cada tag tem um propósito específico e pode ter 
+atributos para personalizar seu comportamento. Vamos explorar algumas 
+tags comuns e começar a construir elementos HTML mais complexos.
+
+Nesta aula, introduzimos algumas novas tags:
+
+<header>: Usado para agrupar elementos de cabeçalho.
+<section>: Define uma seção em um documento.
+<ul>: Lista não ordenada, que contém <li> (itens da lista).
+<a>: Define um link. O atributo href especifica o destino do link.
+<footer>: Define o rodapé do documento.
+Além disso, usamos <h2> para criar sub-títulos dentro das seções. 
+Lembre-se de que as tags podem ser aninhadas para criar estruturas mais complexas. 
+Essa é apenas uma introdução; à medida que avançamos, exploraremos mais 
+tags e técnicas para criar páginas web dinâmicas e atraentes.
