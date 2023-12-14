@@ -1,0 +1,13 @@
+Aula 5: Links e Navegação em HTML
+
+Vamos explorar como criar links e facilitar a navegação em uma página HTML.
+
+Nesta aula, focamos em links e navegação:
+
+<a>: Tag para criar links. O atributo href especifica o destino do link.
+target="_blank": Atributo usado para abrir o link em uma nova aba/janela.
+âncoras (<a> com href apontando para um ID da página): Usadas para criar 
+links diretos para seções específicas da página.
+Ao entender como criar links, você pode facilitar a navegação dentro da 
+sua página e também direcionar os usuários para outros sites. Nos próximos 
+módulos, exploraremos formas mais avançadas de interatividade e design.

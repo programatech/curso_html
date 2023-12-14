@@ -1,0 +1,16 @@
+
+Aula 4: Manipulação de Texto em HTML
+
+Vamos agora explorar como manipular texto em HTML, 
+utilizando diversas tags para estruturar e formatar conteúdo textual.
+
+Nesta aula, focamos na manipulação de texto usando diferentes elementos:
+
+<strong>: Deixa o texto em negrito.
+<em>: Enfatiza o texto, geralmente exibindo em itálico.
+<h3>: Cria um subtítulo de terceiro nível.
+<ul> e <li>: Usados para criar listas não ordenadas.
+<table>, <tr>, <th>, e <td>: Utilizados para criar uma tabela.
+Esses elementos ajudam a estruturar e formatar o conteúdo textual, tornando 
+a página mais legível e esteticamente agradável. Conforme avançamos, 
+veremos mais maneiras de estilizar e interagir com o texto e outros elementos da página.
